@@ -7,7 +7,15 @@ https://github.com/brandoge91/funkin-bcb - A engine for the indie game Friday Ni
   
 https://github.com/brandoge91/bigbot - A qBot like roblox bot that has many, many commands+features. It is very advanced in its modularity.  
   
-https://github.com/brandoge91/lobot - A Minecraft: Java Edition bot that can join a server and run commands in chat. Modularity is the best
+https://github.com/brandoge91/lobot - A Minecraft: Java Edition bot that can join a server and run commands in chat. Modularity is the best  
+  
+https://github.com/brandoge91/slashcommandtemplate - A simple discord.js bot template utilizing / commands  
+  
+https://github.com/brandoge91/mBot - A discord.js bot that moves a minecraft bot using commands  
+  
+https://github.com/brandoge91/nimbus - A discord.js bot that has key storage made for services  
+  
+https://github.com/brandoge91/rochatbot - A noblox.js bot that uses the roblox chat with a command handler and a prefix like a discord bot
   
   -brandon      
     
