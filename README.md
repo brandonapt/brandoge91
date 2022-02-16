@@ -15,7 +15,7 @@ https://github.com/brandoge91/mBot - A discord.js bot that moves a minecraft bot
   
 https://github.com/brandoge91/nimbus - A discord.js bot that has key storage made for services  
   
-https://github.com/brandoge91/rochatbot - A noblox.js bot that uses the roblox chat with a command handler and a prefix like a discord bot
+https://github.com/brandoge91/chatbot - A noblox.js bot that uses the roblox chat with a command handler and a prefix like a discord bot
   
   -brandon      
     
