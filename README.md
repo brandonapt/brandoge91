@@ -1,6 +1,7 @@
-Hi! I'm Brandon!  
+# Hi! I'm Brandon!  
   
 I know Lua, Haxe, and Javascript.  
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=brandoge91&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
   
 Some of my favorite projects to work on are:  
 https://github.com/brandoge91/funkin-bcb - A engine for the indie game Friday Night Funkin'. I don't work on it much anymore, really only pushing bug patches.  
