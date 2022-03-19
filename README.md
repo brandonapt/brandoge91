@@ -23,7 +23,7 @@ https://github.com/brandoge91/mBot - A discord.js bot that moves a minecraft bot
 https://github.com/brandoge91/nimbus - A discord.js bot that has key storage made for services in a marketplace  
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=brandoge91&repo=nimbus)](https://github.com/brandoge91/nimbus)
   
-https://github.com/brandoge91/nobot - A noblox.js bot that uses the roblox chat with a command handler and a prefix like a discord bot
+https://github.com/brandoge91/nobot - A noblox.js bot that uses the roblox chat with a command handler and a prefix like a discord bot  
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=brandoge91&repo=nobot)](https://github.com/brandoge91/nobot)
   
   -brandon      
