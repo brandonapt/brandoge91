@@ -1,6 +1,7 @@
 # Hi! I'm Brandon!  
   
 I know Lua, Haxe, and Javascript.  
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=brandoge91&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
   
 Some of my favorite projects to work on are:  
