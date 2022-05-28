@@ -5,6 +5,10 @@ I know Lua, Haxe, and Javascript. (and a little bit of C/++)
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=brandoge91&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
   
 Some of my favorite projects to work on are:  
+
+https://github.com/tovyblox/tovy - I worked on Bans and Tasks for Tovy, a free staff management software.
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=tovyblox&repo=tovy)](https://github.com/tovyblox/tovy)
+
 https://github.com/brandoge91/funkin-bcb - A engine for the indie game Friday Night Funkin'. I don't work on it much anymore, really only pushing bug patches.  
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=brandoge91&repo=funkin-bcb)](https://github.com/brandoge91/funkin-bcb)
   
