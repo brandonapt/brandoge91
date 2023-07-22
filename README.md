@@ -1,3 +1,3 @@
-hello
+nuxt enjoyer
 
-i do full stack (vue/js) and some other stuff
+functional programming is propaganda
