@@ -1,4 +1,4 @@
-nuxt enjoyer (currently working on @rorank-rbx and sami web services) 
+nuxt enjoyer
 
 functional programming is propaganda
 
